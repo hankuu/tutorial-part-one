@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "gatsby-link";
 
 class Counter extends React.Component {
   //tää suoritetaan vaan alussa vai?
